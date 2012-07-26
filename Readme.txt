@@ -4,6 +4,7 @@ Creato da Giacomo Sacchet
 
 Imparare Yii creando un catalogo di prodotti
 
-Particolarità:
+Particolaritï¿½:
 - multilingua facilitato
 - stampa di schede prodotto su pdf integrata
+- multisito
